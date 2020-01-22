@@ -1,0 +1,27 @@
+body{
+  background: rgb(224,224,224);
+}
+form {
+  padding: 50px 70px;
+  font-family: Arial;
+
+}
+.textbox {
+  border: darkgray;
+  width: 455px;
+  height: 30px;
+}
+#submit {
+  width: 160px;
+  height: 40px;
+  background-color: deepskyblue;
+  border-radius: 15px;
+  color: white;
+}
+.button{
+  padding-left: 15px;
+  padding-top: 20px;
+}
+#description{
+  padding-bottom: 15px;
+}
